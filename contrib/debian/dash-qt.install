@@ -1,0 +1,6 @@
+usr/local/bin/mnh-qt usr/bin
+share/pixmaps/mnh32.xpm usr/share/pixmaps
+share/pixmaps/mnh16.xpm usr/share/pixmaps
+share/pixmaps/mnh128.png usr/share/pixmaps
+debian/mnh-qt.desktop usr/share/applications
+debian/mnh-qt.protocol usr/share/kde4/services/
